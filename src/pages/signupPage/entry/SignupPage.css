@@ -16,10 +16,10 @@
 
 /* 로고 */
 .signup__brand {
-  font-size: var(--title-size);
-  font-weight: var(--title-weight);
-  letter-spacing: var(--title-tracking);
-  line-height: var(--title-leading);
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.66px;
+  line-height: 28px;
   color: var(--txt-high);
   text-align: center;
 }

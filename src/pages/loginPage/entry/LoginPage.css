@@ -16,10 +16,10 @@
 
 /* 로고 */
 .login__brand {
-  font-size: var(--title-size);
-  font-weight: var(--title-weight);
-  letter-spacing: var(--title-tracking);
-  line-height: var(--title-leading);
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.66px;
+  line-height: 28px;
   color: var(--txt-high);
   text-align: center;
 }
@@ -107,7 +107,7 @@
   color: var(--txt-high);
 }
 
-/* 비밀번호 찾기 */
+/* 비밀번호 변경 */
 .login__forgot {
   font-size: var(--body-sm-size);
   font-weight: var(--body-sm-weight);
